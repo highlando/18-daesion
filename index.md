@@ -8,7 +8,7 @@ Analysis and Numerical Approximation of Constrained Systems
 
 > :rocket: Confirm your participation now!
 
-A young academics workshop on theoretical and numerical aspects of DAEs. Organized by [Jan Heiland](http://www.mpi-magdeburg.mpg.de/person/29457/822630) and [Robert Altmann](http://www.math.uni-augsburg.de).
+A young academics workshop of the GAMM FA *Numerische Analysis* on theoretical and numerical aspects of DAEs. Organized by [Jan Heiland](http://www.mpi-magdeburg.mpg.de/person/29457/822630) and [Robert Altmann](http://www.math.uni-augsburg.de).
 
 ### Program
 
