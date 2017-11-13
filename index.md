@@ -30,7 +30,12 @@ The mansion *la maison blanche* in [Sion, Switzerland](http://www.openstreetmap.
 
 #### Travel
 
-Self-organized or by the transfer from Augsburg, Germany, Sunday, April 15, 9 AM (return Saturday, April 21). 
+Self-organized or by transfer 
+
+| Route | Date | Info |
+| ------- | --- | --- |
+| Augsburg - Sion | Sunday, April 15, 9 AM | by car, 6/9 spots still available |
+| Sion - Augsburg | to be announced | by car  |
 
 #### Registration and fees
 
