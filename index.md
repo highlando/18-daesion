@@ -30,7 +30,7 @@ The mansion *la maison blanche* in [Sion, Switzerland](http://www.openstreetmap.
 
 #### Travel
 
-Self-organized or by the transfer from Augsburg, Germany. 
+Self-organized or by the transfer from Augsburg, Germany, Sunday, April 15, 9 AM (return Saturday, April 21). 
 
 #### Registration and fees
 
@@ -45,12 +45,12 @@ Self-organized or by the transfer from Augsburg, Germany.
 #### Confirmed
 
  - Robert Altmann (U Augsburg)
+ - Marine Froidevaux (TU Berlin)
  - Jan Heiland (MPI Magdeburg)
+ - Benny Unger (TU Berlin)
 
 #### Invited
 
- - Benny Unger (Berlin)
- - Marine Froidevaux (Berlin)
  - Manuela Paschkowski (Halle)
  - ich muss mal noch ueberlegen
  - Jonas Witschel (Ilmenau)
