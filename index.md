@@ -34,7 +34,11 @@ Self-organized or by the transfer from Augsburg, Germany.
 
 #### Registration and fees
 
-There is no registration fee. The flat-tax for the accommodation is 45 Euros and is to be paid directly to the housekeepers. Catering is self-paid and jointly organized.
+| Issue | Info |
+| ------- | ------ |
+| Registration | No fees here |
+| Accommodation | 45 Euros -- flat charge |
+| Catering | Jointly organized and self-paid |
 
 ### Participants
 
