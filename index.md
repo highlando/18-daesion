@@ -57,7 +57,7 @@ Self-organized or by transfer
 #### Invited
 
  - Manuela Paschkowski (Halle)
- - ich muss mal noch ueberlegen
+ - Ulrich R&ouml;mer (Braunschweig)
  - Jonas Witschel (Ilmenau)
  - Sara Grundel (MPI)
  - Ines Dorschky (Hamburg)
