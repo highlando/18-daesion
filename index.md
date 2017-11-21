@@ -34,7 +34,7 @@ Self-organized or by transfer
 
 | Route | Date | Info |
 | ------- | --- | --- |
-| Augsburg - Sion | Sunday, April 15, 9 AM | by car, 6/9 spots still available |
+| Augsburg - Sion | Sunday, April 15, 9 AM | by car, 4/7 spots still available |
 | Sion - Augsburg | to be announced | by car  |
 
 #### Registration and fees
