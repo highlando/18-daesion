@@ -60,5 +60,5 @@ Self-organized or by transfer
  - Ulrich R&ouml;mer (Braunschweig)
  - Jonas Witschel (Ilmenau)
  - Sara Grundel (MPI)
- - Ines Dorschky (Hamburg)
+ - Frederic Haller (Hamburg)
  - Thomas Berger (Hamburg)
