@@ -8,7 +8,7 @@ Analysis and Numerical Approximation of Constrained Systems
 
 > :rocket: Confirm your participation now!
 
-A young academics workshop of the GAMM FA *Numerische Analysis* on theoretical and numerical aspects of DAEs. Organized by [Jan Heiland](http://www.mpi-magdeburg.mpg.de/person/29457/822630) and [Robert Altmann](http://www.math.uni-augsburg.de/prof/lam/Mitarbeiter/robert_altmann/).
+A young academics workshop of the GAMM FA *Numerische Analysis* on theoretical and numerical aspects of DAEs. Organized by <a href="http://www.mpi-magdeburg.mpg.de/person/29457/822630" target="_blank">Jan Heiland</a> and <a href="http://www.math.uni-augsburg.de/prof/lam/Mitarbeiter/robert_altmann/" target="_blank">Robert Altmann</a>.
 
 ### Program
 
@@ -22,7 +22,7 @@ A young academics workshop of the GAMM FA *Numerische Analysis* on theoretical a
 
 ### The Venue
 
-The mansion *la maison blanche* in [Sion, Switzerland](http://www.openstreetmap.org/way/237002942), that has sleeping room for 10 and a seminar hall for 20.
+The mansion *la maison blanche* in <a href="http://www.openstreetmap.org/way/237002942" target="_blank">Sion, Switzerland</a>, that has sleeping room for 10 and a seminar hall for 20.
 
 ![The townhouse](files/maison_blanche.JPG)
 ![View from the lobby](files/maison_blanche_panorama.JPG)
