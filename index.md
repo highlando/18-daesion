@@ -18,7 +18,7 @@ A young academics workshop of the GAMM FA *Numerische Analysis* on theoretical a
 | April 16 | Casual meetings and open discussions |
 | April 17-19 | Talks and thematic sessions |
 | April 18-20 | Casual meetings and open discussions |
-| April 19-22 | Departures |
+| April 19-21 | Departures |
 
 ### The Venue
 
