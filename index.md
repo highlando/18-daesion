@@ -50,6 +50,7 @@ Self-organized or by transfer
 #### Confirmed
 
  - Robert Altmann (U Augsburg)
+ - Thomas Berger (Hamburg)
  - Marine Froidevaux (TU Berlin)
  - Jan Heiland (MPI Magdeburg)
  - Benny Unger (TU Berlin)
@@ -61,4 +62,3 @@ Self-organized or by transfer
  - Jonas Witschel (Ilmenau)
  - Sara Grundel (MPI)
  - Frederic Haller (Hamburg)
- - Thomas Berger (Hamburg)
