@@ -50,15 +50,15 @@ Self-organized or by transfer
 #### Confirmed
 
  - Robert Altmann (U Augsburg)
- - Thomas Berger (Hamburg)
+ - Thomas Berger (U Hamburg)
  - Marine Froidevaux (TU Berlin)
  - Jan Heiland (MPI Magdeburg)
- - Manuela Paschkowski (Halle)
+ - Manuela Paschkowski (U Halle)
  - Benny Unger (TU Berlin)
 
 #### Invited
 
- - Ulrich R&ouml;mer (Braunschweig)
- - Jonas Witschel (Ilmenau)
- - Sara Grundel (MPI)
- - Frederic Haller (Hamburg)
+ - Svenja Otto (TU Hamburg)
+ - Jonas Witschel (TU Ilmenau)
+ - Sara Grundel (MPI Magdeburg)
+ - Frederic Haller (U Hamburg)
