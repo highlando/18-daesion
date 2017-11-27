@@ -53,11 +53,11 @@ Self-organized or by transfer
  - Thomas Berger (Hamburg)
  - Marine Froidevaux (TU Berlin)
  - Jan Heiland (MPI Magdeburg)
+ - Manuela Paschkowski (Halle)
  - Benny Unger (TU Berlin)
 
 #### Invited
 
- - Manuela Paschkowski (Halle)
  - Ulrich R&ouml;mer (Braunschweig)
  - Jonas Witschel (Ilmenau)
  - Sara Grundel (MPI)
