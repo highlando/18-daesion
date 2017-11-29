@@ -34,7 +34,7 @@ Self-organized or by transfer
 
 | Route | Date | Info |
 | ------- | --- | --- |
-| Augsburg - Sion | Sunday, April 15, 9 AM | by car, 4/7 spots still available |
+| Augsburg - Sion | Sunday, April 15, 9 AM | by car, 3/7 spots still available |
 | Sion - Augsburg | Before Saturday, April 21 | by car  |
 
 #### Registration and fees
@@ -54,7 +54,7 @@ Self-organized or by transfer
  - Marine Froidevaux (TU Berlin)
  - Jan Heiland (MPI Magdeburg)
  - Manuela Paschkowski (U Halle)
- - Benny Unger (TU Berlin)
+ - Benjamin Unger (TU Berlin)
 
 #### Invited
 
