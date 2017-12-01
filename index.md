@@ -52,13 +52,13 @@ Self-organized or by transfer
  - Robert Altmann (U Augsburg)
  - Thomas Berger (U Hamburg)
  - Marine Froidevaux (TU Berlin)
+ - Sara Grundel (MPI Magdeburg)
  - Jan Heiland (MPI Magdeburg)
  - Manuela Paschkowski (U Halle)
  - Benjamin Unger (TU Berlin)
+ - Jonas Witschel (TU Ilmenau)
 
 #### Invited
 
  - Svenja Otto (TU Hamburg)
- - Jonas Witschel (TU Ilmenau)
- - Sara Grundel (MPI Magdeburg)
  - Frederic Haller (U Hamburg)
