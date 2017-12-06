@@ -6,7 +6,7 @@ layout: index
 Analysis and Numerical Approximation of Constrained Systems
 -----
 
-> :rocket: Confirm your participation now!
+> :rocket: Boarding completed!
 
 A young academics workshop of the GAMM FA *Numerische Analysis* on theoretical and numerical aspects of DAEs. Organized by <a href="http://www.mpi-magdeburg.mpg.de/person/29457/822630" target="_blank">Jan Heiland</a> and <a href="http://www.math.uni-augsburg.de/prof/lam/Mitarbeiter/robert_altmann/" target="_blank">Robert Altmann</a>.
 
