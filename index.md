@@ -53,12 +53,9 @@ Self-organized or by transfer
  - Thomas Berger (U Hamburg)
  - Marine Froidevaux (TU Berlin)
  - Sara Grundel (MPI Magdeburg)
+ - Frederic Haller (U Hamburg)
  - Jan Heiland (MPI Magdeburg)
+ - Svenja Otto (TU Hamburg)
  - Manuela Paschkowski (U Halle)
  - Benjamin Unger (TU Berlin)
  - Jonas Witschel (TU Ilmenau)
-
-#### Invited
-
- - Svenja Otto (TU Hamburg)
- - Frederic Haller (U Hamburg)
