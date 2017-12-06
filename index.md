@@ -47,8 +47,6 @@ Self-organized or by transfer
 
 ### Participants
 
-#### Confirmed
-
  - Robert Altmann (U Augsburg)
  - Thomas Berger (U Hamburg)
  - Marine Froidevaux (TU Berlin)
