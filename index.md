@@ -14,11 +14,11 @@ A young academics workshop of the GAMM FA *Numerische Analysis* on theoretical a
 
 | Date | Item |
 | ------- | ------ |
-| April 15-17 | Arrival |
+| April 15 | Arrival |
 | April 16 | Casual meetings and open discussions |
 | April 17-19 | Talks and thematic sessions |
 | April 18-20 | Casual meetings and open discussions |
-| April 19-21 | Departures |
+| April 21 | Departure |
 
 ### The Venue
 
